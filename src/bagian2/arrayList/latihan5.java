@@ -1,6 +1,7 @@
 package bagian2.arrayList;
     import java.util.ArrayList;
 
+
 public class latihan5 {
     public static void main(String[] args) {
 ArrayList<Integer> nilai = new ArrayList<>();

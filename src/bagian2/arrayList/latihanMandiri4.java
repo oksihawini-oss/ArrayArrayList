@@ -1,5 +1,6 @@
 package bagian2.arrayList;
 
+
 import java.util.ArrayList;
 
 public class latihanMandiri4 {
