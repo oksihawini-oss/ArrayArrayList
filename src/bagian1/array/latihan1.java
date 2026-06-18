@@ -1,5 +1,6 @@
 package bagian1.array;
 
+
 public class latihan1 {
     public static void main(String[] args) {
 // Cara 1: deklarasi lalu isi per indeks

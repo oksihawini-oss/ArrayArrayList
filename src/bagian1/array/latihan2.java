@@ -1,5 +1,6 @@
 package bagian1.array;
 
+
 public class latihan2 {
     public static void main(String[] args) {
       int[] nilai = {80, 75, 90, 60, 85};

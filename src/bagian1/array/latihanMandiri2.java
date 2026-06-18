@@ -1,5 +1,6 @@
 package bagian1.array;
 
+
 public class latihanMandiri2 {
     public static void main(String[] args) {
         String[] hari = {
